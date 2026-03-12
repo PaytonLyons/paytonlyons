@@ -3,7 +3,7 @@
 
 --- 
 
-I'm an applied economist and data analyst with dual degrees in Mathematics and Economics and an MS in Statistics from Boise State University, plus a graduate certificate in Econometrics and Causal Analysis. I work as a Market Researcher at Colliers Idaho where I help produce quantitative market analysis for commercial real estate markets across the Treasure Valley.
+I'm an applied economist and data analyst with dual degrees in Mathematics and Economics and an MS in Mathematics with an emphasis in statistics from Boise State University, plus a graduate certificate in Econometrics and Causal Analysis. I work as a Market Researcher at Colliers Idaho where I help produce quantitative market analysis for commercial real estate markets across the Treasure Valley.
 
 My research sits at the intersection of econometrics, real estate economics, and data science — I'm interested in how economic forces shape property markets, how causal inference methods can isolate real signals from noisy market data, and how rigorous forecasting can inform better investment and policy decisions.
 

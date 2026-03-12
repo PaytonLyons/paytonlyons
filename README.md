@@ -32,6 +32,6 @@ Before focusing on real estate economics I spent two years as a Certified Pharma
 I'm currently building toward quantitative economics and research roles at the intersection of real estate data, applied econometrics, and market intelligence.
 
 📍 Boise, Idaho &nbsp;·&nbsp; 
-🔗 [LinkedIn](www.linkedin.com/in/payton-lyons-36b63828a) &nbsp;·&nbsp; 
+🔗 [LinkedIn](https://www.linkedin.com/in/payton-lyons-36b63828a) &nbsp;·&nbsp; 
 📝 [Substack](https://substack.com/@paytonlyons) &nbsp;·&nbsp; 
 📧 lyonspayton25@gmail.com

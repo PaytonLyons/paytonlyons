@@ -16,6 +16,7 @@ My research sits at the intersection of econometrics, real estate economics, and
 
 ### Techincal Skills
 **Languages**: R · Python · SQL · MATLAB · Stata · SAS
+
 **Tools**: R Markdown · ggplot2 · tidyverse · Power BI · Excel · Git
 
 ---

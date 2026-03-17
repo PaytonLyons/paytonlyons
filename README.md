@@ -10,7 +10,7 @@ My research sits at the intersection of econometrics, real estate economics, and
 ---
 
 ### Current work
-- Empty
+- Using machine learning to predict the March Mardness bracket.
 
 ---
 

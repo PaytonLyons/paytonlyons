@@ -10,7 +10,6 @@ My research sits at the intersection of econometrics, real estate economics, and
 ---
 
 ### Current work
-- Using machine learning to predict the March Mardness bracket.
 - Modeling Treasure Valley rent prices with respect to distance from downtown Boise.
 
 ---
@@ -24,7 +23,7 @@ My research sits at the intersection of econometrics, real estate economics, and
 ---
 
 ### Selected Projects 
-- Empty
+- https://github.com/PaytonLyons/March-Madness-2026
 
 ---
 

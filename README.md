@@ -10,8 +10,7 @@ My research sits at the intersection of econometrics, real estate economics, and
 ---
 
 ### Current work
-- Modeling Treasure Valley rent prices with respect to distance from downtown Boise.
-
+- 
 ---
 
 ### Techincal Skills
